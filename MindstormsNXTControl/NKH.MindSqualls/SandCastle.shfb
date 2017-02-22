@@ -1,0 +1,38 @@
+﻿<project schemaVersion="1.3.3.1">
+    <assemblies>
+        <assembly assemblyPath="C:\Source.Net20\NKH.MindSqualls\bin\Debug\NKH.MindSqualls.dll" xmlCommentsPath="C:\Source.Net20\NKH.MindSqualls\bin\Debug\NKH.MindSqualls.XML" commentsOnly="False" />
+    </assemblies>
+    <namespaceSummaries>
+        <namespaceSummaryItem name="" isDocumented="False" />
+        <namespaceSummaryItem name="NKH.MindSqualls" isDocumented="True">&lt;para&gt;Contains classes for communicating with a LEGO MINDSTORMS NXT robot; bluetooth connection, the brick itself, motors and sensors.&lt;/para&gt;</namespaceSummaryItem>
+    </namespaceSummaries>
+    <contentPlacement>AboveNamespaces</contentPlacement>
+    <projectSummary />
+    <sandcastlePath />
+    <hhcPath />
+    <hxcompPath />
+    <outputPath>.\Help\</outputPath>
+    <helpFileFormat>HtmlHelp1x</helpFileFormat>
+    <cleanIntermediates>True</cleanIntermediates>
+    <purgeDuplicateTopics>True</purgeDuplicateTopics>
+    <cppCommentsFixup>False</cppCommentsFixup>
+    <frameworkVersion>2.0.50727</frameworkVersion>
+    <binaryTOC>True</binaryTOC>
+    <includeFavorites>False</includeFavorites>
+    <preliminary>False</preliminary>
+    <rootNSContainer>False</rootNSContainer>
+    <helpTitle>MindSqualls v1.2 beta 1 documentation</helpTitle>
+    <htmlHelpName>MindSqualls_v1_2_1</htmlHelpName>
+    <language>en-US</language>
+    <copyrightHref>http://www.mindsqualls.net/LegalStuff.aspx</copyrightHref>
+    <copyrightText>This code is released under the GPL v2 copyleft license</copyrightText>
+    <feedbackEMailAddress>niels@mindsqualls.net</feedbackEMailAddress>
+    <headerText>MindSqualls is a .Net 2.0 library for the LEGO MINDSTORMS NXT robot</headerText>
+    <projectLinks>Local</projectLinks>
+    <sdkLinks>Msdn</sdkLinks>
+    <presentationStyle>Prototype</presentationStyle>
+    <namingMethod>Guid</namingMethod>
+    <syntaxFilters>Standard</syntaxFilters>
+    <missingTags>Summary, Parameter, Returns, AutoDocumentCtors</missingTags>
+    <visibleItems>InheritedMembers, InheritedFrameworkMembers, Protected, SealedProtected</visibleItems>
+</project>

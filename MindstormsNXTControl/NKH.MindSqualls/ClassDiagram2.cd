@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="NKH.MindSqualls.NxtCommunicationProtocol" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>NxtCommunicationProtocol.cs</FileName>
+      <HashCode>YAQoCggICCjCADBLIEAQCMAgEA0CCRIgQAQEkFGDBiA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtBluetoothConnection" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>NxtBluetoothConnection.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAABIAEAAAIAAAAAAAAIAAgAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtBrick" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtBrick1.cs</FileName>
+      <HashCode>ACQEAUKAAABUACDQBgAAQIQAIKAAAAAAVAAAAMAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="commLink" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="motorArr" />
+      <Field Name="sensorArr" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtPollable" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtPollable.cs</FileName>
+      <HashCode>AAACAEAAAAAAAAAAAAABAAIACUAACABAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="brick" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtSensor" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtSensor.cs</FileName>
+      <HashCode>ACAAAAAAAAAAAAAAIgAAAAAACAAECAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtMotor" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtMotor.cs</FileName>
+      <HashCode>AAEAAQBAQCAIAAAIAAAgBAAACCAACAAAAAAABAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

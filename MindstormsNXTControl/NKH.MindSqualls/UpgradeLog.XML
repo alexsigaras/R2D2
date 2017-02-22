@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NKH.MindSqualls">
+</Property><Property Name="Solution File" Value="C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\NKH.MindSqualls.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\NKH.MindSqualls.suo">
+</Property><Property Name="Date" Value="Δευτέρα, 29 Νοεμβρίου 2010">
+</Property><Property Name="Time" Value="10:40 πμ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NKH.MindSqualls.sln" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NKH.MindSqualls.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NKH.MindSqualls.suo" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NKH.MindSqualls.suo">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NKH.MindSqualls.csproj" Description="Project file successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NKH.MindSqualls.csproj">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="HiTechnicAccelerationSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\HiTechnicAccelerationSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="HiTechnicColorSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\HiTechnicColorSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="HiTechnicCompassSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\HiTechnicCompassSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtActiveSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtActiveSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtBluetoothConnection.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtBluetoothConnection.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtBrick1.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtBrick1.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtBrick2.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtBrick2.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtBrick3.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtBrick3.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtCommunicationProtocol.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtCommunicationProtocol.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtDigitalSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtDigitalSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtExceptions.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtExceptions.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtLightSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtLightSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtMotor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtMotor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtMotorSync.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtMotorSync.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtNoSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtNoSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtPassiveSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtPassiveSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtPollable.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtPollable.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtSoundSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtSoundSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtTouchSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtTouchSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NxtUltrasonicSensor.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\NxtUltrasonicSensor.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="TraceUtil.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\TraceUtil.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="Util.cs" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\Util.cs">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="ClassDiagram1.cd" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="ClassDiagram2.cd" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="ClassDiagram3.cd" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\ClassDiagram3.cd">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="ClassDiagram4.cd" Description="File successfully backed up as C:\Users\Alex\Desktop\NKH_MindSqualls_v1_2_1\NKH.MindSqualls\Backup\ClassDiagram4.cd">
+</Event><Event ErrorLevel="1" Project="NKH.MindSqualls" Source="NKH.MindSqualls.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NKH.MindSqualls.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NKH.MindSqualls" Source="NKH.MindSqualls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NKH.MindSqualls.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NKH.MindSqualls.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NKH.MindSqualls" Source="NKH.MindSqualls.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

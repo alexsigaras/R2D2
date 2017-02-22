@@ -1,0 +1,503 @@
+Finding tools...
+Found Sandcastle in 'C:\Programmer\Sandcastle\'
+Found HTML 1.x help compiler in 'C:\Programmer\HTML Help Workshop\'
+Validating documentation assembly information...
+-------------------------------
+Creating Sandcastle configuration file...
+-------------------------------
+Generating shared content files (en-US)...
+-------------------------------
+Generating reflection information...
+[C:\Source.Net20\NKH.MindSqualls\Help\Working\GenerateRefInfo.bat]
+MrefBuilder (v2.2.61208.1447)
+Copyright ¸ Microsoft 2006
+Info: Loaded 1 assemblies for reflection and 0 dependency assemblies.
+Info: Wrote information on 1 namespaces, 43 types, and 389 members
+-------------------------------
+Removing duplicate topics from reflection.org
+    0 duplicate topics removed
+-------------------------------
+Applying visibility properties to reflection.org
+    2 attribute nodes removed
+    0 explicit interface implementations removed
+    0 local and base class EII elements removed
+-------------------------------
+Generating namespace summary information...
+-------------------------------
+Transforming reflection output...
+[C:\Source.Net20\NKH.MindSqualls\Help\Working\TransformManifest.bat]
+XslTransform (v2.2.61208.1447)
+Copyright ¸ Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Programmer\Sandcastle\ProductionTransforms\AddOverloads.xsl'.
+Info: Applying XSL transformation 'C:\Programmer\Sandcastle\ProductionTransforms\AddGuidFilenames.xsl'.
+XslTransform (v2.2.61208.1447)
+Copyright ¸ Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Programmer\Sandcastle\ProductionTransforms\ReflectionToManifest.xsl'.
+-------------------------------
+Adding missing documentation elements...
+    Warning: Missing <param name="Message"> documentation for M:NKH.MindSqualls.NxtConnectionException.#ctor(System.String)
+-------------------------------
+Copying standard help content...
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\alert_caution.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\alert_caution.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\alert_note.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\alert_note.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\alert_security.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\alert_security.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\Caution.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\Caution.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\CFW.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\CFW.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\collapse_all.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\collapse_all.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\copycode.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\copycode.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\expand_all.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\expand_all.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\LastChild.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\LastChild.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\NotLastChild.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\NotLastChild.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privclass.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privclass.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privdelicate.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privdelicate.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privenum.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privenum.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privevent.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privevent.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privfield.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privfield.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privinterface.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privinterface.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privmethod.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privmethod.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privproperty.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privproperty.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\privstructure.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\privstructure.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protclass.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protclass.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protdeligate.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protdeligate.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protenum.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protenum.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protevent.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protevent.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protfield.png -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protfield.png
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protinterface.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protinterface.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protmethod.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protmethod.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protoperator.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protoperator.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protproperty.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protproperty.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\protstructure.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\protstructure.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubclass.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubclass.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubdelegate.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubdelegate.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubenum.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubenum.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubevent.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubevent.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubfield.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubfield.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubinterface.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubinterface.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubmethod.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubmethod.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\puboperator.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\puboperator.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubproperty.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubproperty.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\pubstructure.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\pubstructure.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\security.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\security.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\icons\static.gif -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\icons\static.gif
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\CollapsibleSection.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\CollapsibleSection.js
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\CookieDataStore.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\CookieDataStore.js
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\ElementCollection.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\ElementCollection.js
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\EventUtilities.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\EventUtilities.js
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\LanguageFilter.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\LanguageFilter.js
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\MemberFilter.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\MemberFilter.js
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\SplitScreen.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\SplitScreen.js
+C:\Programmer\Sandcastle\Presentation\Prototype\scripts\StyleUtilities.js -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\scripts\StyleUtilities.js
+C:\Programmer\Sandcastle\Presentation\Prototype\styles\presentation.css -> C:\Source.Net20\NKH.MindSqualls\Help\Working\Output\styles\presentation.css
+
+Building help topics...
+[C:\Source.Net20\NKH.MindSqualls\Help\Working\BuildHelpTopics.bat]
+BuildAssembler (v2.2.61208.1447)
+Copyright ¸ Microsoft 2006
+Info: CopyFromFileComponent: Instantiating component.
+Info: CopyFromFileComponent: Loading data file 'C:\Programmer\Sandcastle\Presentation\Prototype\transforms\skeleton.xml'.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Searching for files that match 'reflection.xml'.
+Info: CopyFromIndexComponent: Found 1 files.
+Info: CopyFromIndexComponent: Searching for files that match 'C:\Programmer\Sandcastle\Data\Cpref_reflection\*.xml'.
+Info: CopyFromIndexComponent: Found 1 files.
+Info: CopyFromIndexComponent: Indexed 149510 elements.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: ForEachComponent: Instantiating component.
+Info: ForEachComponent: Loading subcomponents.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: ForEachComponent: Loaded 1 subcomponents.
+Info: IfThenComponent: Instantiating component.
+Info: SyntaxComponent: Instantiating component.
+Info: SyntaxComponent: Loaded 3 syntax generators.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Searching for files that match 'C:\Source.Net20\NKH.MindSqualls\Help\Working\NKH.MindSqualls.XML'.
+Info: CopyFromIndexComponent: Found 1 files.
+Info: CopyFromIndexComponent: Searching for files that match 'C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\*.xml'.
+Info: CopyFromIndexComponent: Found 65 files.
+Info: CopyFromIndexComponent: Indexed 75925 elements.
+Info: ForEachComponent: Instantiating component.
+Info: ForEachComponent: Loading subcomponents.
+Info: IfThenComponent: Instantiating component.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: ForEachComponent: Loaded 2 subcomponents.
+Info: CodeBlockComponent: Instantiating component.
+Info: CodeBlockComponent: 
+    [Sandcastle Help File Builder Components, version 1.3.3.1]
+    Code Block Component. Copyright (c) 2006, Eric Woodruff, All rights reserved.
+    Portions copyright (c) 2003, Jonathan de Halleux, All rights reserved.
+    http://www.codeplex.com/SHFB
+Info: TransformComponent: Instantiating component.
+Info: PostTransformComponent: Instantiating component.
+Info: PostTransformComponent: 
+    [Sandcastle Help File Builder Components, version 1.3.3.1]
+    Post-Transform Component. Copyright (c) 2006, Eric Woodruff, All rights reserved.
+    http://www.codeplex.com/SHFB
+Info: SharedContentComponent: Instantiating component.
+Info: SharedContentComponent: Loading shared content file 'shared_content.xml'.
+Info: SharedContentComponent: Loading shared content file 'reference_content.xml'.
+Info: SharedContentComponent: Loading shared content file 'syntax_content.xml'.
+Info: SharedContentComponent: Loaded 202 shared content items.
+Info: ResolveReferenceLinksComponent: Instantiating component.
+Info: ResolveReferenceLinksComponent: Indexed 149660 reference link targets.
+Info: SaveComponent: Instantiating component.
+Info: BuildAssembler: Building topic R:Project
+Info: BuildAssembler: Building topic N:NKH.MindSqualls
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.HiTechnicAccelerationSensor
+Info: ResolveReferenceLinksComponent: Preparing to query MSDN topic URL web service.
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.#ctor
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.HiTechnicAccelerationSensor.scal¡ng
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.XAxisAcceleration
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.XAxisLower2Bits
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.XAxisUpper8Bits
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.YAxisAcceleration
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.YAxisLower2Bits
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.YAxisUpper8Bits
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.ZAxisAcceleration
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.ZAxisLower2Bits
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicAccelerationSensor.ZAxisUpper8Bits
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.HiTechnicColorSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.BlueReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.ColorIndexNumber
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.HiTechnicColorSensor.ColorNumber
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.GreenReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.NormalizedBlueReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.NormalizedGreenReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.NormalizedRedReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.RawBlueSensorReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.RawGreenSensorReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.RawRedSensorReading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicColorSensor.RedReading
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.HiTechnicCompassSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicCompassSensor.#ctor
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.HiTechnicCompassSensor.Heading
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicCompassSensor.ModeControl
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicCompassSensor.OneDegreeAdder
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.HiTechnicCompassSensor.OnInsideRange
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.HiTechnicCompassSensor.OnOutsideRange
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicCompassSensor.Poll
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.HiTechnicCompassSensor.pollData
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.HiTechnicCompassSensor.RangeA
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.HiTechnicCompassSensor.RangeB
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.HiTechnicCompassSensor.TwoDegreeHeading
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtActiveSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtActiveSensor.#ctor(NKH.MindSqualls.NxtSensorType,NKH.MindSqualls.NxtSensorMode)
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtBluetoothConnection
+Info: BuildAssembler: Building topic Overload:NKH.MindSqualls.NxtBluetoothConnection.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBluetoothConnection.#ctor(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBluetoothConnection.#ctor(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBluetoothConnection.Connect
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBluetoothConnection.Disconnect
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBluetoothConnection.IsConnected
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBluetoothConnection.Send(System.Byte[])
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtBrick
+Info: BuildAssembler: Building topic Overload:NKH.MindSqualls.NxtBrick.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBrick.#ctor(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBrick.#ctor(System.String)
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.BatteryLevel
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.CommLink
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBrick.Connect
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBrick.Disconnect
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.IsConnected
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.MotorA
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.MotorB
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.MotorC
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Name
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBrick.PlaySoundfile(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBrick.PlayTone(System.UInt16,System.UInt16)
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Program
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Programs
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Sensor1
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Sensor2
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Sensor3
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Sensor4
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtBrick.Sounds
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtBrick.StopSound
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtCommand
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtCommunicationProtocol
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.BluetoothFactoryReset
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Boot
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Close(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.CloseModuleHandle(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Connect
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Delete(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.DeleteUserFlash
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Disconnect
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.FindFirst(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.FindNext(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.GetBatteryLevel
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.GetCurrentProgramName
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.GetDeviceInfo
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.GetFirmwareVersion
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.GetInputValues(NKH.MindSqualls.NxtSensorPort)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.GetOutputState(NKH.MindSqualls.NxtMotorPort)
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtCommunicationProtocol.IsConnected
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.KeepAlive
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.LsGetStatus(NKH.MindSqualls.NxtSensorPort)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.LsRead(NKH.MindSqualls.NxtSensorPort)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.LsWrite(NKH.MindSqualls.NxtSensorPort,System.Byte,System.Byte[])
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.MessageRead(NKH.MindSqualls.NxtMailbox2,NKH.MindSqualls.NxtMailbox,System.Boolean)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.MessageWrite(NKH.MindSqualls.NxtMailbox,System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.OpenAppendData(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.OpenRead(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.OpenReadLinear(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.OpenWrite(System.String,System.UInt32)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.OpenWriteData(System.String,System.UInt32)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.OpenWriteLinear(System.String,System.UInt32)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.PlaySoundfile(System.Boolean,System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.PlayTone(System.UInt16,System.UInt16)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.PollCommand(System.Byte,System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.PollCommandLength(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Read(System.Byte,System.UInt16)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.ReadIoMap(System.UInt32,System.UInt16,System.UInt16)
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtCommunicationProtocol.ReplyRequired
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.RequestFirstModule(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.RequestNextModule(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.ResetInputScaledValue(NKH.MindSqualls.NxtSensorPort)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.ResetMotorPosition(NKH.MindSqualls.NxtMotorPort,System.Boolean)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Send(System.Byte[])
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.SetBrickName(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.SetInputMode(NKH.MindSqualls.NxtSensorPort,NKH.MindSqualls.NxtSensorType,NKH.MindSqualls.NxtSensorMode)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.SetOutputState(NKH.MindSqualls.NxtMotorPort,System.SByte,NKH.MindSqualls.NxtMotorMode,NKH.MindSqualls.NxtMotorRegulationMode,System.SByte,NKH.MindSqualls.NxtMotorRunState,System.UInt32)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.StartProgram(System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.StopProgram
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.StopSoundPlayback
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.Write(System.Byte,System.Byte[])
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocol.WriteIoMap(System.UInt32,System.UInt16,System.Byte[])
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtCommunicationProtocolException
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocolException.#ctor(NKH.MindSqualls.NxtCommand,NKH.MindSqualls.NxtErrorMessage,System.String)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtCommunicationProtocolException.ToString
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtConnectionException
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtConnectionException.#ctor(System.String)
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtDigitalSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtDigitalSensor.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtDigitalSensor.ReadProductId
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtDigitalSensor.ReadSensorType
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtDigitalSensor.ReadVersion
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtErrorMessage
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtException
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtException.#ctor(System.String)
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtFindFileReply
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.FindFirst' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.FindFirst' needed to be constructed from the reference string.
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.FindNext' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.FindNext' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtFindFileReply.FileFound
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtFindFileReply.fileName
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtFindFileReply.fileSize
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtFindFileReply.handle
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtGetDeviceInfoReply
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetDeviceInfoReply.bluetoothSignalStrength
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetDeviceInfoReply.btAdress
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetDeviceInfoReply.freeUserFlash
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetDeviceInfoReply.nxtName
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtGetFirmwareVersionReply
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetFirmwareVersionReply.firmwareVersion
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetFirmwareVersionReply.protocolVersion
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtGetInputValuesReply
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.GetInputValues' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.GetInputValues' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.calibrated
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.calibratedValue
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.normalizedAdValue
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.rawAdValue
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.scaledValue
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.sensorMode
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.sensorType
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetInputValuesReply.valid
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtGetOutputStateReply
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.GetOutputState' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.GetOutputState' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.blockTachoCount
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.mode
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.power
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.regulationMode
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.rotationCount
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.runState
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.tachoCount
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.tachoLimit
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtGetOutputStateReply.ToString
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtGetOutputStateReply.turnRatio
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtLightSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtLightSensor.#ctor
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtLightSensor.CompareIntensity
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtLightSensor.GenerateLight
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtLightSensor.Intensity
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtLightSensor.OnAboveIntensity
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtLightSensor.OnBelowIntensity
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtLightSensor.Poll
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMailbox
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMailbox2
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMotor
+Info: BuildAssembler: Building topic Overload:NKH.MindSqualls.NxtMotor.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.#ctor(System.Boolean)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.Brake
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.Coast
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.Idle
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtMotor.OnAboveTachoCount
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtMotor.OnBelowTachoCount
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.Poll
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtMotor.pollData
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.ResetMotorPosition(System.Boolean)
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.ResetMotorPosition' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.ResetMotorPosition' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotor.Run(System.SByte,System.UInt32)
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtMotor.TachoCount
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtMotor.TriggerTachoCount
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMotorEvent
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMotorMode
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMotorPort
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMotorRegulationMode
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMotorRunState
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtMotorSync
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotorSync.#ctor(NKH.MindSqualls.NxtMotor,NKH.MindSqualls.NxtMotor)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotorSync.Brake
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotorSync.Coast
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotorSync.Idle
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotorSync.ResetMotorPosition(System.Boolean)
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtMotor.ResetMotorPosition' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtMotor.ResetMotorPosition' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtMotorSync.Run(System.SByte,System.UInt16,System.SByte)
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtNoSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtNoSensor.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtNoSensor.Poll
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtOpenAppendDataReply
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.OpenAppendData' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.OpenAppendData' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtOpenAppendDataReply.availableFilesize
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtOpenAppendDataReply.handle
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtOpenReadReply
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.OpenRead' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.OpenRead' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtOpenReadReply.fileSize
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtOpenReadReply.handle
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtPassiveSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtPassiveSensor.#ctor(NKH.MindSqualls.NxtSensorType,NKH.MindSqualls.NxtSensorMode)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtPassiveSensor.Poll
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtPassiveSensor.pollData
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtPollable
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtPollable.#ctor
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtPollable.OnPolled
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtPollable.Poll
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtPollable.PollInterval
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtRequestModuleReply
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.RequestFirstModule' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.RequestFirstModule' needed to be constructed from the reference string.
+Warn: ResolveReferenceLinksComponent: The reference link target 'M:NKH.MindSqualls.NxtCommunicationProtocol.RequestNextModule' is unknown.
+Info: ResolveReferenceLinksComponent: The title for 'M:NKH.MindSqualls.NxtCommunicationProtocol.RequestNextModule' needed to be constructed from the reference string.
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.handle
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.ModuleFound
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleId
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleIdCC
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleIdFF
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleIdPP
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleIdTT
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleIoMapSize
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleName
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtRequestModuleReply.moduleSize
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtSensor.#ctor(NKH.MindSqualls.NxtSensorType,NKH.MindSqualls.NxtSensorMode)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtSensor.Poll
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtSensor.sensorPort
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtSensor.sensorType
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtSensorEvent
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtSensorMode
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtSensorPort
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtSensorType
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtSoundSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtSoundSensor.#ctor
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtSoundSensor.CompareSoundLevel
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtSoundSensor.dBA
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtSoundSensor.OnAboveSoundLevel
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtSoundSensor.OnBelowSoundLevel
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtSoundSensor.Poll
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtSoundSensor.SoundLevel
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtTouchSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtTouchSensor.#ctor
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtTouchSensor.IsPressed
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtTouchSensor.OnPressed
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtTouchSensor.OnReleased
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtTouchSensor.Poll
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.NxtUltrasonicSensor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.#ctor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ContinuousMeasurementCommand
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtUltrasonicSensor.DistanceCm
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.EventCaptureCommand
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.OffCommand
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtUltrasonicSensor.OnInsideDistance
+Info: BuildAssembler: Building topic E:NKH.MindSqualls.NxtUltrasonicSensor.OnOutsideDistance
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.Poll
+Info: BuildAssembler: Building topic F:NKH.MindSqualls.NxtUltrasonicSensor.pollData
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadActualScaleDivisor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadActualScaleFactor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadActualZero
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadCommandState
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadContinuousMeasurementsInterval
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadFactoryScaleDivisor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadFactoryScaleFactor
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadFactoryZero
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadMeasurementByteX(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.ReadMeasurementUnits
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.RequestWarmReset
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.SetActualScaleDivisor(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.SetActualScaleFactor(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.SetActualZero(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.SetContinuousMeasurementInterval(System.Byte)
+Info: BuildAssembler: Building topic M:NKH.MindSqualls.NxtUltrasonicSensor.SingleShotCommand
+Info: BuildAssembler: Building topic P:NKH.MindSqualls.NxtUltrasonicSensor.TriggerDistanceCm
+Info: BuildAssembler: Building topic T:NKH.MindSqualls.Polled
+Info: Processed 287 topics
+-------------------------------
+Generating table of content for HTML Help 1.x file...
+[C:\Source.Net20\NKH.MindSqualls\Help\Working\Generate1xTOC.bat]
+XslTransform (v2.2.61208.1447)
+Copyright ¸ Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Programmer\Sandcastle\ProductionTransforms\ReflectionToChmContents.xsl'.
+Updating table of content with additional content items and determining default topic ...
+-------------------------------
+Generating help file index...
+[C:\Source.Net20\NKH.MindSqualls\Help\Working\Generate1xIndex.bat]
+XslTransform (v2.2.61208.1447)
+Copyright ¸ Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Programmer\Sandcastle\ProductionTransforms\ReflectionToChmIndex.xsl'.
+-------------------------------
+Generating help project file...
+-------------------------------
+Compiling the help file...
+[C:\Source.Net20\NKH.MindSqualls\Help\Working\Build1xHelpFile.bat]
+Microsoft HTML Help Compiler 4.74.8702
+
+
+
+Compiling c:\Source.Net20\NKH.MindSqualls\Help\Working\Output\MindSqualls_v1_2_1.chm
+
+
+
+
+
+Compile time: 0 minutes, 5 seconds
+
+289	Topics
+
+3,525	Local links
+
+1,808	Internet links
+
+0	Graphics
+
+
+
+
+
+Created c:\Source.Net20\NKH.MindSqualls\Help\Working\Output\MindSqualls_v1_2_1.chm, 354,318 bytes
+
+Compression decreased file by 2,003,789 bytes.
+
+Removing intermediate files...
+
+
+Build completed successfully
+

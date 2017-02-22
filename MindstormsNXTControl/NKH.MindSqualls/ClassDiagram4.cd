@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="NKH.MindSqualls.NxtMotor" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtMotor.cs</FileName>
+      <HashCode>AAEAAQBAQCAIAAAIAAAgBAAACCAACAAAAAAABAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtMotorSync" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtMotorSync.cs</FileName>
+      <HashCode>AgAAAABAACAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="motorX" />
+      <Field Name="motorY" />
+    </ShowAsAssociation>
+  </Class>
+</ClassDiagram>

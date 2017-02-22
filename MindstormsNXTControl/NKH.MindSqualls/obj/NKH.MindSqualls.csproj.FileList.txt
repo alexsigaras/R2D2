@@ -1,0 +1,6 @@
+bin\Debug\NKH.MindSqualls.dll
+bin\Debug\NKH.MindSqualls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NKH.MindSqualls.dll
+obj\Debug\NKH.MindSqualls.pdb
+bin\Debug\NKH.MindSqualls.XML

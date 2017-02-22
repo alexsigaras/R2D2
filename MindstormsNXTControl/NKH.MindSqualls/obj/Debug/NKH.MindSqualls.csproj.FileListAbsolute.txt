@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\NXTWPF\MindstormsNXTControl\NKH.MindSqualls\bin\Debug\NKH.MindSqualls.XML
+C:\Users\Alex\Desktop\NXTWPF\MindstormsNXTControl\NKH.MindSqualls\bin\Debug\NKH.MindSqualls.dll
+C:\Users\Alex\Desktop\NXTWPF\MindstormsNXTControl\NKH.MindSqualls\bin\Debug\NKH.MindSqualls.pdb
+C:\Users\Alex\Desktop\NXTWPF\MindstormsNXTControl\NKH.MindSqualls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\NXTWPF\MindstormsNXTControl\NKH.MindSqualls\obj\Debug\NKH.MindSqualls.dll
+C:\Users\Alex\Desktop\NXTWPF\MindstormsNXTControl\NKH.MindSqualls\obj\Debug\NKH.MindSqualls.pdb
+C:\Users\v-digkan\Desktop\MindstormsNXTControl\NKH.MindSqualls\bin\Debug\NKH.MindSqualls.dll
+C:\Users\v-digkan\Desktop\MindstormsNXTControl\NKH.MindSqualls\bin\Debug\NKH.MindSqualls.pdb
+C:\Users\v-digkan\Desktop\MindstormsNXTControl\NKH.MindSqualls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-digkan\Desktop\MindstormsNXTControl\NKH.MindSqualls\obj\Debug\NKH.MindSqualls.dll
+C:\Users\v-digkan\Desktop\MindstormsNXTControl\NKH.MindSqualls\obj\Debug\NKH.MindSqualls.pdb

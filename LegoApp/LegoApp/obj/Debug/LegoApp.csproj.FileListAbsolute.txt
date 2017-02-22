@@ -1,0 +1,13 @@
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\obj\Debug\LegoApp.g.resources
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\Bin\Debug\ApplicationIcon.png
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\Bin\Debug\Background.png
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\Bin\Debug\LegoApp.dll
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\Bin\Debug\LegoApp.pdb
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\Bin\Debug\AppManifest.xaml
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\Bin\Debug\LegoApp.xap
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\obj\Debug\LegoApp.dll
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\obj\Debug\LegoApp.pdb
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\obj\Debug\XapCacheFile.xml
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\obj\Debug\App.g.i.cs
+C:\Users\v-digkan\Desktop\LegoApp\LegoApp\obj\Debug\MainPage.g.i.cs

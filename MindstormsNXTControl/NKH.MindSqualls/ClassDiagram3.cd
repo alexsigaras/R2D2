@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="NKH.MindSqualls.NxtPollable" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtPollable.cs</FileName>
+      <HashCode>AAACAEAAAAAAAAAAAAABAAIACUAACABAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtMotor" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtMotor.cs</FileName>
+      <HashCode>AAEAAQBAQCAIAAAIAAAgBAAACCAACAAAAAAABAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtSensor" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtSensor.cs</FileName>
+      <HashCode>ACAAAAAAAAAAAAAAIgAAAAAACAAECAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.HiTechnicAccelerationSensor" Collapsed="true">
+    <Position X="10" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>HiTechnicAccelerationSensor.cs</FileName>
+      <HashCode>ABAAQEAAAAAAAAQAABAAAAAMEAABAAAAAAgAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.HiTechnicCompassSensor" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>HiTechnicCompassSensor.cs</FileName>
+      <HashCode>AAAAAQgKAAAGCAAAAAAAAAAAAAAACAAAAAAAQCAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.HiTechnicColorSensor" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>HiTechnicColorSensor.cs</FileName>
+      <HashCode>EAAAAEGAAAAAAAAABAAAAAAAAAAgBAAAAACBAEAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtNoSensor" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtNoSensor.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtActiveSensor" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtActiveSensor.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtPassiveSensor" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtPassiveSensor.cs</FileName>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtDigitalSensor" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtDigitalSensor.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAIFAACAAAAAAAAAAABAAAACAABAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtLightSensor" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtLightSensor.cs</FileName>
+      <HashCode>AAAAAAAAAAAEAAAAACEIAAAIAAAACAEAAAAAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtSoundSensor" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtSoundSensor.cs</FileName>
+      <HashCode>AACAEAAAAAAAAAAAAAAAAAIAQAAICAAAAAAAQAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtTouchSensor" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NxtTouchSensor.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAEAACAAAAAAAQAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NKH.MindSqualls.NxtUltrasonicSensor" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>NxtUltrasonicSensor.cs</FileName>
+      <HashCode>kAAIAUAAAgASAAAgAAEAAAQACABgKAoAQQBAwAEQAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
